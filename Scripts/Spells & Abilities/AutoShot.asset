@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cfe15bdead27814299141a321f2d4a0, type: 3}
+  m_Name: AutoShot
+  m_EditorClassIdentifier: 
+  spellID: 1
+  Name: Auto Shot
+  spellEffectID: 1
+  MissilePrefab: {fileID: 2307972482026538698, guid: a27b5c0f57e4af44f843e460d5ee9bf8,
+    type: 3}
+  ReachEffectID: 0
